@@ -36,3 +36,6 @@ Prey with 8 range 7 predators.png
 The project should be opened through unity (made with version 2021.3.18f1) , and is not exported as an executable, hyperparameters need to be set in the engine.  
 The majority of hyperparameters are found in the scripts labelled "behaviour_controller" and "spawner".  
 Prey and predator vision is controlled through the prefab for the respective agent.
+
+##RAW DATA
+The raw data of results csvs are included in /results_raw . The simple python script I used to generate graphs is also included.
