@@ -26,3 +26,5 @@ Demonstrates visually the unit ranges talked about in my paper
 
 ## Project
 The project should be opened through unity, and is not exported as an executable, hyperparameters need to be set in the engine.
+The majority of hyperparameters are found in the scripts labelled "behaviour_controller" and "spawner".
+Prey and predator vision is controlled through the prefab for the respective agent.
