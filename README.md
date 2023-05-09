@@ -22,7 +22,15 @@ Demonstrates the behaviour of the wolf
 ## Graphs and figures
 
 Visualised_ranges.png  
-Demonstrates visually the unit ranges talked about in my paper  
+Demonstrates visually the unit ranges talked about in my paper   
+
+The follwing are the graphs showing the results from their respective simulations  
+Prey with 4 range 7 predators.png  
+Prey with 6 range 5 predators.png  
+Prey with 6 range 6 predators.png  
+Prey with 6 range 7 predators.png  
+Prey with 6 vision range no predators.png  
+Prey with 8 range 7 predators.png  
 
 ## Project  
 The project should be opened through unity (made with version 2021.3.18f1) , and is not exported as an executable, hyperparameters need to be set in the engine.  
